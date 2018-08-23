@@ -29,3 +29,14 @@ form {
     padding-top: 20px;
     padding-bottom: 100px;
 }
+
+.answer {
+    margin: 0 auto;
+    height: 100px;
+    width: 100px;
+    background-color: darkblue;
+    border-radius: 75px;
+    font-size: 75px;
+    font-weight: bold;
+    border: 2px solid grey;
+    line-height: 150px;
