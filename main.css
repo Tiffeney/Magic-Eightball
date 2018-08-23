@@ -25,3 +25,7 @@ body {
     font-weight: bold;
     line-height: 150px;
 }
+form {
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
