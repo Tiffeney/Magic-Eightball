@@ -36,7 +36,10 @@ form {
     width: 100px;
     background-color: darkblue;
     border-radius: 75px;
-    font-size: 75px;
+    font-size: 10px;
     font-weight: bold;
     border: 2px solid grey;
     line-height: 150px;
+    color: white;
+    text-align: center;
+}
